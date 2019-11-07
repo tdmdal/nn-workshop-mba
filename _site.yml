@@ -1,0 +1,13 @@
+name: "TDMDAL Workshop"
+output_dir: "docs"
+include: ["*.pdf", "*.R"]
+exclude: ["*.pptx", "*.docx"]
+navbar:
+  title: "Intro to NN and DL"
+  right:
+    - text: "Home"
+      href: index.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
