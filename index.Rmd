@@ -6,6 +6,9 @@ title: "Introduction to Neural Network and Deep Learning"
 
 * Free Resources
     * [Jason's Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213#slide=id.g183f28bdc3_0_90)
+    * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
+    * [Deep Learning Book](http://www.deeplearningbook.org/)
+    * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
 ---
 
